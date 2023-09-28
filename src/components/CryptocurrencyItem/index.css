@@ -1,0 +1,32 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-container {
+  display: flex;
+  align-items: center;
+}
+.currency-logo {
+  height: 30px;
+  width: 30px;
+}
+.name {
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 12px;
+}
+.value-container {
+  display: flex;
+  align-items: center;
+}
+.currency-value {
+  font-size: 14px;
+  margin-left: 10px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  text-align: right;
+  width: 70px;
+  margin-left: 14px;
+}
